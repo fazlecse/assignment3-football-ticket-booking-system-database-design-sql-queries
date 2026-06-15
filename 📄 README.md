@@ -29,7 +29,7 @@ This project is a relational database design for a Football Ticket Booking Syste
 - schema.sql → Table creation scripts
 - sample_data.sql → Insert sample records
 - queries.sql → Assignment SQL solutions
-- docs/ → ERD explanation + theory answers
+- assets → B7A3.erd.png 
 
 ---
 
